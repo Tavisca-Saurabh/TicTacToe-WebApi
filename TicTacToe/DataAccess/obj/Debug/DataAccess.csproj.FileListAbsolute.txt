@@ -1,0 +1,11 @@
+c:\users\smanchanda\source\repos\TicTacToe\DataAccess\bin\Debug\DataAccess.dll.config
+c:\users\smanchanda\source\repos\TicTacToe\DataAccess\bin\Debug\DataAccess.dll
+c:\users\smanchanda\source\repos\TicTacToe\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\smanchanda\source\repos\TicTacToe\DataAccess\bin\Debug\EntityFramework.dll
+c:\users\smanchanda\source\repos\TicTacToe\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\smanchanda\source\repos\TicTacToe\DataAccess\bin\Debug\EntityFramework.xml
+c:\users\smanchanda\source\repos\TicTacToe\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\smanchanda\source\repos\TicTacToe\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+c:\users\smanchanda\source\repos\TicTacToe\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+c:\users\smanchanda\source\repos\TicTacToe\DataAccess\obj\Debug\DataAccess.dll
+c:\users\smanchanda\source\repos\TicTacToe\DataAccess\obj\Debug\DataAccess.pdb
